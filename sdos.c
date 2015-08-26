@@ -271,7 +271,7 @@ char* randIp()
  */
 void usage()
 {
-        printf("./ddos <options>\n");
+        printf("./sdos <options>\n");
         printf("\n");
         printf("v     Verbose - Enables verbosity\n");
         printf("h     Host    - IP of host to connect to\n");
