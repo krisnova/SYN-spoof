@@ -12,3 +12,4 @@ thread.
 # Pipeline / TODO
 
  * [ ] Need to abstract "inteface" to .h file
+ * [ ] Need to abstract configuration struct to .h file
