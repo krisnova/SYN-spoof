@@ -7,3 +7,8 @@ hopes of determining the threshold for availability.
  
 This is an isolated penetration test that will send requests via a unique
 thread.
+
+
+# Pipeline / TODO
+
+ * [ ] Need to abstract "inteface" to .h file
