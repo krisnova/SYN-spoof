@@ -15,7 +15,7 @@ This script is designed to be a proof, and should be used for kernel development
 
 # Pipeline / TODO
 
- * [ ] Need to abstract "inteface" to .h file
+ * [ ] Need to abstract "interface" to .h file
  * [ ] Need to abstract configuration struct to .h file
  * [ ] Command line options could use a once over
  * [ ] Following UNIX parlance, this should be a lib and util (But do we `really` need that?)
